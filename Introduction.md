@@ -1,7 +1,7 @@
 Hi to everyone, i´m studing to be a SOC, this is my journal... My handbook notes. 
 ## Computer Networks.
 Collection of autonomous computers interconnected by a single technology.
-Example: 10 laptops conected to wifi.
+Example: 10 laptops conected among them.
 ## Distributed System.
 Collection of independent computers apperars to its users as a single.
 It´s a system over the network
