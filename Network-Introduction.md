@@ -9,3 +9,8 @@ Example: Google Search.
 ## Middleware.
 Layer of software on top of the operating system. 
 ### Note: Computer Networks != Distributed System.
+##VPN´s (Virtual private networks).
+They used to join the individual networks at different sites into one extended network.
+##Servers.
+Combination Hardware and software designet to provide services to other devices.
+##Client-Server Model. 
